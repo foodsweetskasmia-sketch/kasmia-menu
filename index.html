@@ -1,58 +1,141 @@
-
 <!DOCTYPE html>
 <html lang="ar">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>منيو كاسمية</title>
+<title>Kasmia Menu</title>
 
 <style>
+
 body{
-    font-family: Arial;
-    background:#fff8f0;
-    padding:20px;
-    text-align:center;
+    margin:0;
+    font-family:Arial;
+    background:#f8f3ea;
     direction:rtl;
+    text-align:center;
+}
+
+header{
+    background:#d8b15a;
+    padding:25px;
+    color:#fff;
+}
+
+header img{
+    width:180px;
 }
 
 h1{
-    color:#d35400;
+    margin-top:10px;
+    font-size:35px;
 }
 
-.item{
+.container{
+    width:95%;
+    margin:auto;
+    padding:20px 0;
+}
+
+.card{
     background:white;
-    margin:15px auto;
-    padding:15px;
+    border-radius:20px;
+    padding:20px;
+    margin-bottom:25px;
+    box-shadow:0 2px 10px rgba(0,0,0,0.1);
+}
+
+.card img{
+    width:100%;
     border-radius:15px;
-    max-width:300px;
-    box-shadow:0 2px 5px rgba(0,0,0,0.1);
+}
+
+.name{
+    font-size:30px;
+    margin-top:15px;
+    font-weight:bold;
+}
+
+.dutch{
+    color:#666;
+    font-size:20px;
+    margin-top:8px;
 }
 
 .price{
-    color:green;
+    color:#b30000;
+    font-size:35px;
+    margin-top:15px;
     font-weight:bold;
 }
+
+.whatsapp{
+    position:fixed;
+    bottom:20px;
+    left:20px;
+    background:#25d366;
+    color:white;
+    padding:15px 20px;
+    border-radius:50px;
+    text-decoration:none;
+    font-size:20px;
+    font-weight:bold;
+}
+
 </style>
 </head>
 
 <body>
 
+<header>
+
+<img src="1000331012.png">
+
 <h1>منيو كاسمية</h1>
 
-<div class="item">
-<h2>كريب شوكولا</h2>
-<p class="price">5$</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+<img src="1000331203.jpg">
+<div class="name">سلامي وجبنة</div>
+<div class="dutch">Kasmia Salami en Kaas</div>
+<div class="price">4€</div>
 </div>
 
-<div class="item">
-<h2>وافل</h2>
-<p class="price">4$</p>
+<div class="card">
+<img src="1000331205.jpg">
+<div class="name">مكسيكانو جبنة</div>
+<div class="dutch">Kasmia Mexicaanso</div>
+<div class="price">4€</div>
 </div>
 
-<div class="item">
-<h2>ميلك شيك</h2>
-<p class="price">3$</p>
+<div class="card">
+<img src="1000331201.jpg">
+<div class="name">جبنة قشقوان</div>
+<div class="dutch">Mozzarella Kaas</div>
+<div class="price">2€</div>
 </div>
+
+<div class="card">
+<img src="1000331199.jpg">
+<div class="name">زيتون وفليفلة</div>
+<div class="dutch">Olijven Mix</div>
+<div class="price">2.50€</div>
+</div>
+
+<div class="card">
+<img src="1000297830.png">
+<div class="name">محمرة وجبنة وزعتر</div>
+<div class="dutch">Muhammara en Kaas en Zatar</div>
+<div class="price">2.50€</div>
+</div>
+
+</div>
+
+<a class="whatsapp" href="https://wa.me/31630578464">
+واتساب
+</a>
 
 </body>
 </html>
