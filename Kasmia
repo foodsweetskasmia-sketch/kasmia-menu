@@ -1,0 +1,83 @@
+<div class="card">
+<img src="1000331203.jpg">
+<div class="name">سلامي وجبنة</div>
+<div class="dutch">Kasmia Salami en Kaas</div>
+<div class="price">4€</div>
+</div>
+
+<div class="card">
+<img src="1000331205.jpg">
+<div class="name">مكسيكانو جبنة</div>
+<div class="dutch">Kasmia Mexicaanso</div>
+<div class="price">4€</div>
+</div>
+
+<div class="card">
+<img src="1000331201.jpg">
+<div class="name">جبنة قشقوان</div>
+<div class="dutch">Mozzarella Kaas</div>
+<div class="price">2€</div>
+</div>
+
+<div class="card">
+<img src="1000331199.jpg">
+<div class="name">زيتون وفليفلة</div>
+<div class="dutch">Olijven Mix</div>
+<div class="price">2.50€</div>
+</div>
+
+<div class="card">
+<img src="1000297830.png">
+<div class="name">محمرة وجبنة وزعتر</div>
+<div class="dutch">Muhammara en Kaas en Zatar</div>
+<div class="price">2.50€</div>
+</div>
+
+<div class="card">
+<img src="1000331201.jpg">
+<div class="name">بيتزا صغيرة</div>
+<div class="dutch">Mini Pizza</div>
+<div class="price">2.50€</div>
+</div>
+
+<div class="card">
+<img src="1000297830.png">
+<div class="name">محمرة</div>
+<div class="dutch">Muhammara</div>
+<div class="price">1.50€</div>
+</div>
+
+<div class="card">
+<img src="1000331199.jpg">
+<div class="name">زعتر</div>
+<div class="dutch">Zatar</div>
+<div class="price">1.50€</div>
+</div>
+
+<div class="card">
+<img src="1000331201.jpg">
+<div class="name">سبانخ وجبنة</div>
+<div class="dutch">Spinazie en Kaas</div>
+<div class="price">2.50€</div>
+</div>
+
+<div class="card">
+<img src="1000331199.jpg">
+<div class="name">مرتديلا وجبنة</div>
+<div class="dutch">Mortadella en Kaas</div>
+<div class="price">2.50€</div>
+</div>
+
+<div class="card">
+<img src="1000331205.jpg">
+<div class="name">شرحات دجاج</div>
+<div class="dutch">Kip</div>
+<div class="price">3€</div>
+</div>
+
+<div class="card">
+<img src="1000331205.jpg">
+<div class="name">شرحات دجاج وقشقوان</div>
+<div class="dutch">Kip en Kaas</div>
+<div class="price">3.50€</div>
+</div>
